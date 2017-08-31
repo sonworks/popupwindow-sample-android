@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/sonworks/Documents/PopupWindowSample/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/sonworks/Documents/PopupWindowSample/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sonworks/Documents/PopupWindowSample/app/build/intermediates/res/merged/debug/drawable-hdpi/balloon.png",
+        "source": "/Users/sonworks/Documents/PopupWindowSample/app/src/main/res/drawable-hdpi/balloon.png"
+    }
+]

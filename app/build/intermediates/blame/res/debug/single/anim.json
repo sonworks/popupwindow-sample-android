@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/sonworks/Documents/PopupWindowSample/app/build/intermediates/res/merged/debug/anim/shrink_from_top.xml",
+        "source": "/Users/sonworks/Documents/PopupWindowSample/app/src/main/res/anim/shrink_from_top.xml"
+    },
+    {
+        "merged": "/Users/sonworks/Documents/PopupWindowSample/app/build/intermediates/res/merged/debug/anim/grow_from_topleft_to_bottomright.xml",
+        "source": "/Users/sonworks/Documents/PopupWindowSample/app/src/main/res/anim/grow_from_topleft_to_bottomright.xml"
+    },
+    {
+        "merged": "/Users/sonworks/Documents/PopupWindowSample/app/build/intermediates/res/merged/debug/anim/grow_from_bottom.xml",
+        "source": "/Users/sonworks/Documents/PopupWindowSample/app/src/main/res/anim/grow_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/sonworks/Documents/PopupWindowSample/app/build/intermediates/res/merged/debug/anim/shrink_from_bottomright_to_topleft.xml",
+        "source": "/Users/sonworks/Documents/PopupWindowSample/app/src/main/res/anim/shrink_from_bottomright_to_topleft.xml"
+    },
+    {
+        "merged": "/Users/sonworks/Documents/PopupWindowSample/app/build/intermediates/res/merged/debug/anim/shrink_from_bottom.xml",
+        "source": "/Users/sonworks/Documents/PopupWindowSample/app/src/main/res/anim/shrink_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/sonworks/Documents/PopupWindowSample/app/build/intermediates/res/merged/debug/anim/grow_from_top.xml",
+        "source": "/Users/sonworks/Documents/PopupWindowSample/app/src/main/res/anim/grow_from_top.xml"
+    }
+]

@@ -1,0 +1,7 @@
+#Thu Aug 31 18:08:33 JST 2017
+base.0=/Users/sonworks/Documents/PopupWindowSample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_17c3d5826ea964a6dc90d85906dbab05ea0164de
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/sonworks/Documents/PopupWindowSample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3a07d0f58a2573c4c1644d2d9f1452185a90804b/classes.dex
+base.1=/Users/sonworks/Documents/PopupWindowSample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3a07d0f58a2573c4c1644d2d9f1452185a90804b
+file.0=/Users/sonworks/Documents/PopupWindowSample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_17c3d5826ea964a6dc90d85906dbab05ea0164de/classes.dex
